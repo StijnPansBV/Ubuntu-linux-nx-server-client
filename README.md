@@ -1,4 +1,4 @@
-# Raspberry 32-bit NX Server Setup
+# Ubuntu Server NX Server Setup
 
 Dit project bevat een installatie-script voor het automatisch configureren van een Raspberry Pi met de volgende software:
 - Cockpit (web-based server management)
