@@ -4,6 +4,9 @@ set -e  # stop bij fouten
 echo "Update en upgrade..."
 sudo apt update && sudo apt upgrade -y
 
+echo "Installeer SSH..."
+sudo apt install ssh -y
+
 echo "Installeer Cockpit..."
 sudo apt install cockpit -y
 
