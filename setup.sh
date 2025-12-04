@@ -36,4 +36,4 @@ sudo apt install -f -y
 echo "Installeer Neofetch..."
 sudo apt install neofetch -y
 
-echo "Klaar! Met veel dank aan Vanherwegen Brent die alles voor je gedaan heeft! :) 🎉"
+echo "Klaar! Met veel dank aan Vanherwegen Brent die zonet alles geprogrammeerd heeft voor jou! :) 🎉"
